@@ -35,12 +35,18 @@ const Footer = () => {
             Social
           </div>
           <div className="flex-col justify-start items-start gap-8 flex">
-            <div className="text-white text-base font-normal leading-snug tracking-tight">
+            <a
+              href=""
+              className="text-white text-base font-normal leading-snug tracking-tight"
+            >
               Twitter
-            </div>
-            <div className="text-white text-base font-normal leading-snug tracking-tight">
+            </a>
+            <a
+              href="https://t.me/SpaceXENTRY"
+              className="text-white text-base font-normal leading-snug tracking-tight"
+            >
               Telegram
-            </div>
+            </a>
             <a href="" className="">
               <div className="w-[173px]  h-[54px] px-8 py-4 rounded shadow border border-cyan-400 justify-center items-center gap-2.5 inline-flex">
                 <div className="text-cyan-400 flex  items-center gap-3 text-base font-kidGames leading-snug tracking-tight">
