@@ -32,7 +32,7 @@ const Footer = () => {
         </div>
         <div className="w-[74px] h-[238px] flex-col justify-start items-start gap-8 inline-flex">
           <div className="text-cyan-400 text-base font-normal leading-snug tracking-tight">
-            CONNECT
+            Social
           </div>
           <div className="flex-col justify-start items-start gap-8 flex">
             <div className="text-white text-base font-normal leading-snug tracking-tight">
