@@ -28,7 +28,7 @@ const Header = () => {
           </li>
         </ul>
 
-        <a href="" className="">
+        <a href="" className="https://t.me/SpaceXENTRY">
           <div className="w-[173px]  h-[54px] px-8 py-4 rounded shadow border border-cyan-400 justify-center items-center gap-2.5 inline-flex">
             <div className="text-cyan-400 flex  items-center gap-3 text-base font-kidGames leading-snug tracking-tight">
               SPACE X <BsArrow90DegRight />

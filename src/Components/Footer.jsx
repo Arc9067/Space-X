@@ -36,7 +36,7 @@ const Footer = () => {
           </div>
           <div className="flex-col justify-start items-start gap-8 flex">
             <a
-              href=""
+              href="https://twitter.com/SpaceXENTRY"
               className="text-white text-base font-normal leading-snug tracking-tight"
             >
               Twitter
